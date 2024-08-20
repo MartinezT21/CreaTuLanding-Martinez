@@ -1,0 +1,22 @@
+.Cart{
+    display: flex;
+    flex-direction: row;
+}
+.NumCart{
+
+    background-color: red;
+    color: white;
+    width: 20px;
+    border-radius: 100px;
+
+}
+
+ul{
+    cursor: pointer;
+}
+
+.BotonCart{
+    display: flex;
+    padding-right: 20px;
+    padding-left: 20px;
+}

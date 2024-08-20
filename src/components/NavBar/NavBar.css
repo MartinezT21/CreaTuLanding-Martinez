@@ -1,0 +1,27 @@
+.Nav{
+    display: flex;
+    
+}
+
+ul{
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+    list-style: none;
+    margin-right: 20px;
+    font-weight: 500;
+}
+
+li{
+    margin-right: 20px;
+    
+}
+
+
+
+li:hover{
+    background-color: black;
+    color: white;
+    transition: 1s;
+}
+
